@@ -1,4 +1,4 @@
-# TANLP-Assignment-1
+# TANLP-Assignment
 
 NLP-Assignment
 HOW NLP is used for text to speech conversion and vice-versa
